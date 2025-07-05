@@ -1,0 +1,11 @@
+/* Add your custom styles here */
+
+#main-content {
+  background-color: #f0f0f0;
+  height: 1000px; /* Tall section */
+  padding: 20px;
+}
+
+.navbar-collapse {
+  background-color: #ddd; /* Dropdown background on mobile */
+}
